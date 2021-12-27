@@ -1,4 +1,12 @@
-### Hi there 👋
+## Hi, I'm Kirill 👋
+
+🎓 I am a **Backend Developer** specializing in **.NET applications**, but also have about 2 years of exp in React. 
+I've been writing production code for 4 years now and still feel like I'm learning every day.
+
+## 🔗 Links
+
+[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/kirill-ludcev)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:lydtcevk@gmail.com)
 
 <!--
 **kludcev/kludcev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
