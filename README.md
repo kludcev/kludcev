@@ -1,24 +1,9 @@
-## Hi, I'm Kirill 👋
+# About Me
 
-🎓 I am a **Backend Developer** specializing in **.NET applications**, but also have about 2 years of exp in React. 
-I've been writing production code for 4 years now and still feel like I'm learning every day.
+Backend developer with 5+ years of commercial experience, adept at collaborating in teams ranging from 2 to 15 members, both remotely and on-site. Proficient in the full development lifecycle—from gathering product owner requirements to using a fully automated release process. Committed to clean coding principles, ensuring maintainable and efficient code. Extensive experience in building robust applications using .NET technologies.
 
-## 🔗 Links
+## Skills
 
-[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/kirill-ludcev)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:lydtcevk@gmail.com)
+**Backend:** .NET, .NET Core, ASP.NET, Microservices, MSSQL, Postgres, Entity Framework, Dapper, RabbitMQ, Kafka, Hangfire, Azure Storage, NetTopologySuite, Redis, Gherkin, NUnit, Selenium, Mediatr, CQRS, Websockets.
 
-<!--
-**kludcev/kludcev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Other:** Kibana, Grafana, ElasticSearch, Kubernetes, Docker, GIT, Jaeger, Twilio, Stripe.
